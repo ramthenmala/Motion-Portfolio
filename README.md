@@ -1,1 +1,1 @@
-[![trophy](https://github-profile-trophy.vercel.app/?ramthenmala=ryo-ma)](https://github.com/ramthenmala/Motion-Portfolio)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ramthenmala)](https://github.com/ryo-ma/github-profile-trophy)
